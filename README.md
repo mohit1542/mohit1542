@@ -1,4 +1,4 @@
-## 👋, I'm Mohit
+## Hi👋, I'm Mohit
 ## Building Innovative Mobile Apps with React Native and MERN Stack with Mohit.
 
 #### Welcome to my GitHub profile! I am a skilled mobile app developer with expertise in React Native, JavaScript, C++, HTML, CSS, MySQL database, Firebase, Back4App, and MERN stack. In just two years, I have gained hands-on experience in designing, developing, and deploying a wide range of mobile applications.
